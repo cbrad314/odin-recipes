@@ -1,0 +1,1 @@
+This project is used for demonstrating skills acquired during the The Oden Project's Foundations course.
